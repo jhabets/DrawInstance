@@ -25,7 +25,7 @@
       {
           "displayName": "URP Shaders Graphs and Materials",
           "description": "Contains sample shaders for the Universal render pipeline",
-          "path": "Samples~/SamplesUniversalRP"
+          "path": "Samples~/Shaders_Graphs_Materials"
       }
   ],
   "author": {
