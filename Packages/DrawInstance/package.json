@@ -20,12 +20,12 @@
       {
           "displayName": "Example00",
           "description": "Sample scene that demonstrates using DrawInstance",
-          "path": "Samples~/Example00"
+          "path": "Samples/Example00"
       },
       {
           "displayName": "URP Shaders Graphs and Materials",
           "description": "Contains sample shaders for the Universal render pipeline",
-          "path": "Samples~/Shaders_Graphs_Materials"
+          "path": "Samples/Shaders_Graphs_Materials"
       }
   ],
   "author": {
