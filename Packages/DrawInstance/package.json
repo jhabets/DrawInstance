@@ -1,0 +1,24 @@
+{
+  "name": "io.silverbear.drawinstance",
+  "version": "0.1.0",
+  "displayName": "Draw Instance",
+  "description": "Template for drawing too many things.",
+  "unity": "2021.3",
+  "unityRelease": "1f1",
+  "documentationUrl": "https://silverbear.io/packages/drawInstancing/index.html",
+  "changelogUrl": "https://silverbear.io/packages/drawInstancing/changelog.html",
+  "licensesUrl": "https://silverbear.io/packages/drawInstancing/licenses.html",
+  "dependencies": {
+    "com.unity.mathematics": "1.2.6"
+  },
+  "keywords": [
+    "DrawInstancedProcedural",
+    "ShaderGraph",
+    "Template"
+  ],
+  "author": {
+    "name": "Jeremiah Habets",
+    "email": "jeremiah@tricksterviz.com",
+    "url": "https://www.jhabets.com"
+  }
+}
